@@ -1,0 +1,6 @@
+DATA SECTION:
+dim test as long
+dim test_ as long
+DATA END
+for test=0 to 100 step 1 test_=test_+test
+call msgbox(test_,"result",0)

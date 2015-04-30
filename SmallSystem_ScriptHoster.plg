@@ -1,0 +1,35 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: SmallSystem_ScriptHoster - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\LCATRO~1.PC-\AppData\Local\Temp\RSPA29D.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/SmallSystem_ScriptHoster.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\Administrator\Desktop\code_file\SmallSystem_ScriptHoster\main.cpp"
+]
+Creating command line "cl.exe @"C:\Users\LCATRO~1.PC-\AppData\Local\Temp\RSPA29D.tmp"" 
+Creating temporary file "C:\Users\LCATRO~1.PC-\AppData\Local\Temp\RSPA29E.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/SmallSystem_ScriptHoster.pdb" /debug /machine:I386 /out:"Debug/SmallSystem_ScriptHoster.exe" /pdbtype:sept 
+.\Debug\main.obj
+.\Debug\ScriptHoster.obj
+.\Debug\ScriptResolve.obj
+.\Debug\ScriptSyntax.obj
+]
+Creating command line "link.exe @"C:\Users\LCATRO~1.PC-\AppData\Local\Temp\RSPA29E.tmp""
+<h3>Output Window</h3>
+Compiling...
+main.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+SmallSystem_ScriptHoster.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

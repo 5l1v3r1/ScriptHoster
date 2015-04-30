@@ -1,0 +1,5 @@
+DATA SECTION:
+dim test as string*16
+DATA END
+test="test"
+call msgbox(test,"result",0)
